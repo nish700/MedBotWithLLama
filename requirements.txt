@@ -1,0 +1,9 @@
+langchain
+chainlit
+transformers
+torch
+ctransformers
+pypdf
+sentence-transformers
+
+
